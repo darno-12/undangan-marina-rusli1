@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "weddingundanganmarina" ,
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "database": {
+    "rules": "y"
+  }
+}
